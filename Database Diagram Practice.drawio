@@ -1031,6 +1031,9 @@
             <mxPoint x="160" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jQWdGb9jnQOprW00aHcR-15" value="tồn kho là số lượng hiện tại của một mặt hàng&amp;nbsp;&lt;div&gt;=&amp;gt; làm thực thể riêng có thuộc tính thời gian&amp;nbsp;&lt;br&gt;=&amp;gt; csdl không được xóa dữ liệu mà phải lưu theo kiểu history data để có thể làm báo cáo bất kì lúc nào&amp;nbsp;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="310" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
